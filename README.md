@@ -181,6 +181,6 @@ Response:
 
 ## GitHub Repo
 
-[GitHub Repo Link Here] [git@github.com:Mathew-Rym/lateshow-mathew-rym.git]
+[GitHub Repo Link Here](https://github.com/Mathew-Rym/lateshow-mathew-rym.git)
 
-# lateshow-mathew-rym
+
