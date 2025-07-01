@@ -1,4 +1,4 @@
-# Late Show API Challenge
+# lateshow-mathew-rym
 ## Setting Up PostgreSQL Database
 
 Follow these steps to set up your PostgreSQL database for this project:
